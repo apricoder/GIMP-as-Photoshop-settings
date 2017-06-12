@@ -1,0 +1,6 @@
+# Gimp As Photoshop
+
+The repository is GIMP settings configured by fully following this great tutorial:
+[https://www.udemy.com/free-course-make-gimp-look-and-act-as-photoshop/](https://www.udemy.com/free-course-make-gimp-look-and-act-as-photoshop/)
+
+![gimp](https://lh3.googleusercontent.com/hhhRGv_80VdBZPUevksvGFp8_cToBdW3b-MUI7Qiyyt5GwoVOds_DaM6BLkTYkkIeRh5Pz0k4yYGeORq0DK3CpTOR0VdnyThtIVyFXNHfj407i1t-U9GjXweru3HyyisKyNJmXGG5FxcFrBKm2gii-DQ3m5Txzhxw-vqgwjFXJCJ3ZnFyVrZ-WKK1fjuu9ynpzu98iG_z3xpVIOsmk9fBNk5HPElSHgNLwZ4JkluYXyeIOChMRk2QbC14Rnp0gorNmVy92D_NBCUgTvHi2dXo6ALcLK4N0_KBPzq3ASmpViw7HeagzpV25Yrwy2U-LHof0H1lngJNWrkgKyA4p5_CL7DL7996eoZi3qVqDh7KVn0eKYCovm7iiiCSi0Sl9Va_Jxkas2K2Nj1FVqhuJc5_dD_51wjfJ19zKA_PHOuo7qagWGL28rCpjtgOfQ8JPK1_rssstTqu3CtHN94YE6gkC8bTBKiFNkhiMSr6o8301nu8u25bsWQuSFumHiBUpguk1FPCl7IllH_WTtbadFF8TR4_CVdQRrUtZx2nUWqxG_U3USqK52mhKXPi3noosSlQHJsaULj=w1304-h702)
