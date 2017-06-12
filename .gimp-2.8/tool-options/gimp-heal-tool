@@ -1,0 +1,9 @@
+# GIMP gimp-heal-tool options
+
+(brush "2. Hardness 050")
+(dynamics "Pressure Opacity")
+(palette "Default")
+(align-mode yes)
+(sample-merged yes)
+
+# end of gimp-heal-tool options
